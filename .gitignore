@@ -1,0 +1,7 @@
+pythonapp/__pycache__
+DS_Store
+docs
+pythonapp/helper/__pycache__
+local-docs
+build
+__init__.spec
